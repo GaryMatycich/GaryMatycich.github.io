@@ -61,7 +61,14 @@ h3 {
     padding-right: 0px;
     letter-spacing: 1px;
     font-family: 'Roboto', sans-serif;
-}    
+}
+
+h4 {
+    color: white;
+    padding-right: 0px;
+    letter-spacing: 1px;
+    font-family: 'Roboto', sans-serif;
+}
 
 p {
     color: #75747c;
